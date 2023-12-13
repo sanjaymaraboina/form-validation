@@ -1,0 +1,429 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+h1, h3 {
+    color: yellowgreen;
+}
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  padding: 10px 40px;
+}
+.navlogo p {
+  color: white;
+}
+.navlogo h1 {
+  color: yellowgreen;
+}
+.menu a {
+  color: white;
+}
+.menu a:hover {
+  color: rgb(11, 11, 11);
+  background-color: yellowgreen;
+  width: 70px;
+  height: 25px;
+  text-align: center;
+
+}
+.menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 40px;
+}
+.links {
+  display: flex;
+  gap: 35px;
+}
+.links a {
+  color: white;
+  font-size: 17px;
+}
+.trending {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 60px 0;
+  gap: 50px;
+}
+.trend{
+    padding: 30px 20px;
+    display: flex;
+    flex-direction: column; 
+    background-color: rgb(25, 29, 29);
+
+
+
+ }
+
+.trending img{
+    border-radius: 15px
+}
+
+img{
+  width: 240px;
+    height: 160px;
+}
+.kochi{
+  width: 300px;
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+}
+.kochi img{
+  width: 100%;
+  height: 100%;
+  
+}
+.kochi:hover .back{
+  right: 0;
+
+}
+.back{
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: -100%;
+  position: absolute;
+  background-color: #1f3d4738;
+  backdrop-filter: blur(5px);
+  border-radius: 15px;
+  color: white;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  transition: 2s;
+
+
+}
+
+.card-title{
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: 800;
+
+}
+.sub-title{
+    font-size: 20px;  
+    font-weight: 300;
+}
+.info{
+  font-size: 14px;
+  font-weight: 400;
+
+}
+.card-btn{
+  width: 80px;
+color: #1f3d47;
+background-color: #8fabba;
+padding: 8px 10px;
+border: none;
+outline: none;
+font-weight: 500;
+cursor: pointer;
+border-radius: 5px;
+text-transform: capitalize;
+}
+.alapp{
+  width: 300px;
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+}
+.alapp img{
+  width: 100%;
+  height: 100%;
+  
+}
+.alapp:hover .back{
+  right: 0;
+
+}
+.jahangir{
+  width: 300px;
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+}
+.jahangir img{
+  width: 100%;
+  height: 100%;
+  
+}
+.jahangir:hover .back{
+  right: 0;
+
+}
+
+.guru{
+  width: 300px;
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+}
+.guru img{
+  width: 100%;
+  height: 100%;
+  
+}
+.guru:hover .back{
+  right: 0;
+
+}
+
+.agra{
+  width: 300px;
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+}
+.agra img{
+  width: 100%;
+  height: 100%;
+  
+}
+.agra:hover .back{
+  right: 0;
+
+}
+
+
+
+.taj{
+  width: 300px;
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+}
+.taj img{
+  width: 100%;
+  height: 100%;
+  
+}
+.taj:hover .back{
+  right: 0;
+
+}
+
+.Dive{
+  width: 300px;
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+}
+.Dive img{
+  width: 100%;
+  height: 100%;
+  
+}
+.Dive:hover .back{
+  right: 0;
+
+}
+.Caves{
+  width: 300px;
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+}
+.Caves img{
+  width: 100%;
+  height: 100%;
+  
+}
+.Caves:hover .back{
+  right: 0;
+
+}
+.Gateway{
+  width: 300px;
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+}
+.Gateway img{
+  width: 100%;
+  height: 100%;
+  
+}
+.Gateway:hover .back{
+  right: 0;
+
+}
+
+.Shivaji{
+  width: 300px;
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+}
+.Shivaji img{
+  width: 100%;
+  height: 100%;
+  
+}
+.Shivaji:hover .back{
+  right: 0;
+
+}
+.Ooty{
+  width: 300px;
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+}
+.Ooty img{
+  width: 100%;
+  height: 100%;
+  
+}
+.Ooty:hover .back{
+  right: 0;
+
+}
+.chennai{
+  width: 300px;
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+}
+.chennai img{
+  width: 100%;
+  height: 100%;
+  
+}
+.chennai:hover .back{
+  right: 0;
+
+}
+
+.kodai{
+  width: 300px;
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+}
+.kodai img{
+  width: 100%;
+  height: 100%;
+  
+}
+.kodai:hover .back{
+  right: 0;
+
+}
+.madurai{
+  width: 300px;
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+}
+.madurai img{
+  width: 100%;
+  height: 100%;
+  
+}
+.madurai:hover .back{
+  right: 0;
+
+}
+.munnar{
+  width: 300px;
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+}
+.munnar img{
+  width: 100%;
+  height: 100%;
+  
+}
+.munnar:hover .back{
+  right: 0;
+
+}
+.ravikulam{
+  width: 300px;
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+}
+.ravikulam img{
+  width: 100%;
+  height: 100%;
+  
+}
+.ravikulam:hover .back{
+  right: 0;
+
+}
+
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-section {
+  flex: 1;
+  gap: 20px;
+  padding: 0 20px;
+}
+
+.footer-section h2 {
+  color: #f1c40f; /* Yellow color, you can change this */
+}
+
+.footer-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 10px;
+}
+
+.footer-section a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 20px;
+}
+.footer-section img{
+  width: 40px;
+height: 35px;
+border-radius: 50px;
+
+}
+@media(max-width:520px){
+  .footer-content{
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+  }
+  .footer-bottom p{
+    font-size: 20px;
+  }
+}
