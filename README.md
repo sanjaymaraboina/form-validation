@@ -1,4 +1,4 @@
-## SAMAHA ###### connect widely
+## SAMAHA - connect widely
 
 
 ###### Samaha Connect: Your Budget-Friendly India Travel Guide
@@ -22,6 +22,7 @@
 "This portal serves as your entry point to discovering India's captivating locations, including comprehensive analyses and cost
 details".
 "Handle a user-friendly interface with over 180+ hours dedicated to
+### Home page
 ![Screenshot 2024-02-01 164602](https://github.com/sanjaymaraboina/form-validation/assets/153506569/87fb88b5-35be-40ec-a309-361901faf705)
 
 
