@@ -1,6 +1,6 @@
 ## SAMAHA - connect widely
 
-
+#### GIT HUB LINK :
 ###### Samaha Connect: Your Budget-Friendly India Travel Guide
 
 ###### Overview: Samaha Connect, powered by React.js, simplifies your Indian travel experience. Discover budget-friendly destinations, accommodations, and activities across India, all in one place.
@@ -25,10 +25,9 @@ details".
 ### Home page
 ![Screenshot 2024-02-01 164602](https://github.com/sanjaymaraboina/form-validation/assets/153506569/87fb88b5-35be-40ec-a309-361901faf705)
 
+ ![Screenshot 2024-02-01 164651]
 
+ ### signup page
+![Screenshot 2024-04-29 112344](https://github.com/sanjaymaraboina/form-validation/assets/153506569/d51bc640-9a08-4d78-8f55-dda1d6666e09)
 
-
-
-
-
-development, featuring sign-up and login pages". Checkout now GITHUB link : ![Screenshot 2024-02-01 164651](https://github.com/sanjaymaraboina/form-validation/assets/153506569/4eed78a3-29da-4e9f-93dd-f8b71508ed3e)
+ 
